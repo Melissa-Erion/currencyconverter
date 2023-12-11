@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Melissa-Erion/currencyconverter.git/static/css/main.d5064925.css",
+    "main.js": "/Melissa-Erion/currencyconverter.git/static/js/main.940cc1bc.js",
+    "static/js/787.ad1f9d7f.chunk.js": "/Melissa-Erion/currencyconverter.git/static/js/787.ad1f9d7f.chunk.js",
+    "index.html": "/Melissa-Erion/currencyconverter.git/index.html",
+    "main.d5064925.css.map": "/Melissa-Erion/currencyconverter.git/static/css/main.d5064925.css.map",
+    "main.940cc1bc.js.map": "/Melissa-Erion/currencyconverter.git/static/js/main.940cc1bc.js.map",
+    "787.ad1f9d7f.chunk.js.map": "/Melissa-Erion/currencyconverter.git/static/js/787.ad1f9d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5064925.css",
+    "static/js/main.940cc1bc.js"
+  ]
+}
