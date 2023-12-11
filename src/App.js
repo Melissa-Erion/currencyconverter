@@ -13,7 +13,7 @@ import "./css/Footer.css";
 
 const App = () => {
   return (
-    <Router basename="currencyconverterapp">
+    <Router basename="/currencyconverterapp">
       <div>
         <Header />
         <Route path="/" exact component={Home} />
